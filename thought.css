@@ -1,0 +1,272 @@
+/* #robot{
+    margin-left: 440px;
+} */
+#header{
+    display: flex;
+    padding-bottom: 10px;
+border-bottom: solid 1px rgb(68, 62, 62);
+}
+#nav{
+    margin-left: 400px;
+    margin-top: 6px;
+    
+}
+#nav1{
+    margin-left: 20px;
+    font-size: 18px;
+    text-decoration: none;
+    color: black; 
+}
+#nav1  a:hover{
+    margin-left: 20px;
+    font-size: 18px;
+    text-decoration: none;
+    color: #e03131;
+}
+#nav2{
+    margin-left: 20px;
+    font-size: 18px;
+    text-decoration: none;
+    color: black;
+}
+#nav2 a:hover{
+    margin-left: 20px;
+    font-size: 18px;
+    text-decoration: none;
+    color: #e03131; 
+}
+#nav3{
+    margin-left: 20px;
+    font-size: 18px;
+    text-decoration: none;
+    
+}
+#nav3 a:hover{
+    margin-left: 20px;
+    font-size: 18px;
+    text-decoration: none;
+    color: red;
+}
+#nav4{
+    margin-left: 20px;
+    font-size: 18px;
+    text-decoration: none;
+    color: black;
+}
+#nav4 a:hover{
+    margin-left: 20px;
+    font-size: 18px;
+    text-decoration: none;
+    color: #e03131;
+}
+#nav5{
+
+    margin-left: 20px;
+    font-size: 18px;
+    text-decoration: none;
+    color: black;
+}
+
+#nav5 a:hover{
+ margin-left: 20px;
+ font-size: 18px;
+ text-decoration: none;
+ color: #e03131;
+}
+#nav6{
+ margin-left: 20px;
+ font-size: 18px;
+ text-decoration: none;
+ color: black;
+}
+#nav6 a:hover{
+ margin-left: 20px;
+ font-size: 18px;
+ text-decoration: none;
+ color: #e03131;
+}
+
+
+#nav7{
+margin-left: 20px;
+font-size: 18px;
+text-decoration: none;
+}
+#nav8{
+background-color: #e03131;
+border: none;
+width: 140px;
+margin-left: 20px;
+height: 50px;
+color: white;
+font-size: 13px;
+
+}
+
+#giant{
+   color:#29292c ; 
+   font-weight: bold;
+   font-style: normal;
+   font-size:48px ;
+   font-family:  'Roboto', sans-serif;;
+   margin-left: 30px;
+}
+/* #giant :hover{
+   color:#29292c ; 
+   font-weight: bold;
+   font-style: normal;
+   font-size:48px ;
+   font-family:  'Roboto', sans-serif;;
+   margin-left: 30px;
+   color: black; */
+
+/* } */
+
+@media screen  and (max-width:481px){
+    #header{
+        display: flex;
+        padding-bottom: 10px;
+    border-bottom: solid 1px rgb(68, 62, 62);
+    }
+   }
+
+
+#written{
+    font-size: 22px;
+    margin-left: 70px;
+
+}
+
+#week a{
+    font-size: 23px;
+    font-weight: bold;
+    font-family:  'Roboto', sans-serif;
+    margin-right:4% ;  
+    text-decoration: none; 
+    color: black;
+}
+#week a:hover{
+    font-size: 23px;
+    font-weight: bold;
+    font-family:  'Roboto', sans-serif;
+    margin-right:4% ;  
+    text-decoration: none; 
+    color: #e03131;
+}
+#recent{
+font-size: 19px;
+    font-family:  'Roboto', sans-serif;
+    margin-right:3% ;   
+}
+
+#sara{
+font-size: 18px;
+    font-family:  'Roboto', sans-serif;
+    text-decoration: none;
+    color: #e03131;
+       
+}
+#new{
+font-size: 12px;
+    font-family:  'Roboto', sans-serif;
+    text-decoration: none;
+    color: #e03131;
+            
+}
+#open{
+font-size: 12px;
+    font-family:  'Roboto', sans-serif;
+    text-decoration: none;
+    color: #e03131;
+           
+}
+#this{
+font-size: 12px;
+    font-family:  'Roboto', sans-serif;
+    text-decoration: none;
+    color: #e03131;
+           
+}
+#this a:hover{
+font-size: 12px;
+    font-family:  'Roboto', sans-serif;
+    color: black;  
+}
+#mining {
+    text-decoration: none;
+    margin-right:9.5% ;
+  color: black;  
+    
+}
+#mining a:hover{
+    text-decoration: none;
+    margin-right:9.5% ;
+    color: red;
+    
+}
+#how{
+    font-size: 20px;
+    
+}
+#how{
+    font-size: 20px;
+    
+}
+#math{
+    font-size: 20px;
+    text-decoration: none;
+    color: #e03131;
+       
+}
+#ruby{
+    font-size: 13px;
+    color: #e03131;
+     text-decoration: none;  
+}
+    #asking a{
+  text-decoration: none;
+        margin-right:9.5% ;
+        color: black;
+        
+    }
+    #asking a:hover{
+        color: red;
+        
+    }
+
+#pro{
+    font-size: 21px;
+    font-family:  'Roboto', sans-serif;
+}
+
+
+
+#peek{
+    font-size: 25px;
+    margin-right:9.5% ;
+    font-weight: bold;
+    
+}
+
+#bot{
+    font-size: 20px;
+    font-family:  'Roboto', sans-serif;
+}
+#newopen{
+    font-size: 20px;
+    font-family:  'Roboto', sans-serif;
+}
+
+#september1{
+    font-size: 20px;
+    font-family:  'Roboto', sans-serif;
+}
+#th a {
+color: red;
+}
+#th a:hover{
+color: black;
+
+}
+
+    
